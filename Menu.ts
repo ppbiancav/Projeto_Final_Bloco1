@@ -21,7 +21,7 @@ export function menu() {
         "Glitter", 2, 40.00, "Veludo"));
     
     while(true) {
-        console.log(colors.bg.black, colors.fg.yellow,
+        console.log(colors.fg.magentastrong,
         "*****************************************************");
         console.log("                                                     ");
         console.log("             ୨ৎ   UPPOPMAKEUP STORE    ୨ৎ            ");
