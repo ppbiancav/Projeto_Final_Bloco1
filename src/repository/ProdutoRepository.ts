@@ -1,4 +1,6 @@
-import { Produto } from "./model/Produto";
+import readlinesync =  require('readline-sync')
+
+import { Produto } from "../model/Produto";
 
 
 export interface ProdutoRepository{
